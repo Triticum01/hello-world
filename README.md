@@ -1,7 +1,10 @@
 # hello-world
+### Scope
 This is my first try for GigHub
 for the easy use
-purpose
+purpose `git status`
+
+
 
 the first step here.
 I am new to this site.
