@@ -2,5 +2,10 @@ this is the file 1
 2nd line
 3rd line
 not push this one
+<<<<<<< HEAD
 last line
 last line again
+=======
+
+test the fetch
+>>>>>>> e67ffbd1d39122aaa607c1e57296e66190f52bb1
