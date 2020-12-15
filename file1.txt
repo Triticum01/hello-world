@@ -8,4 +8,9 @@ last line again
 =======
 
 test the fetch
+<<<<<<< HEAD
 >>>>>>> e67ffbd1d39122aaa607c1e57296e66190f52bb1
+=======
+
+test fetch again
+>>>>>>> 1b6ac59b6ef6e0cc3bbf993c21a8835cda90402d
