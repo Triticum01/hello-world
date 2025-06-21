@@ -1,11 +1,12 @@
 /home/triticum/my_monitored_folder:
-total 36
-drwxrwxr-x  2 triticum triticum 4096 Jun 20 21:13 .
-drwxr-x--- 27 triticum triticum 4096 Jun 20 21:13 ..
+total 40
+drwxrwxr-x  2 triticum triticum 4096 Jun 20 21:16 .
+drwxr-x--- 27 triticum triticum 4096 Jun 20 21:20 ..
 -rw-rw-r--  1 triticum triticum    3 Jun 20 19:56 file1
 -rw-rw-r--  1 triticum triticum    3 Jun 20 19:56 file2
 -rw-rw-r--  1 triticum triticum    3 Jun 20 20:25 file3
 -rw-rw-r--  1 triticum triticum    3 Jun 20 20:30 file4
 -rw-rw-r--  1 triticum triticum    3 Jun 20 21:08 file5
 -rw-rw-r--  1 triticum triticum    3 Jun 20 21:13 file6
+-rw-rw-r--  1 triticum triticum   21 Jun 20 21:16 file77
 -rw-rw-r--  1 triticum triticum   27 Jun 20 19:07 testfile.txt
