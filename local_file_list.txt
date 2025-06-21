@@ -1,7 +1,7 @@
 /home/triticum/my_monitored_folder:
 total 40
 drwxrwxr-x  2 triticum triticum 4096 Jun 20 21:16 .
-drwxr-x--- 27 triticum triticum 4096 Jun 20 21:27 ..
+drwxr-x--- 27 triticum triticum 4096 Jun 20 21:34 ..
 -rw-rw-r--  1 triticum triticum    3 Jun 20 19:56 file1
 -rw-rw-r--  1 triticum triticum    3 Jun 20 19:56 file2
 -rw-rw-r--  1 triticum triticum    3 Jun 20 20:25 file3
